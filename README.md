@@ -1,4 +1,4 @@
-# 🏆 Distributed Leaderboard Server
+# 🏆 Distributed Leaderboard System
 
 A high-performance, TLS-secured leaderboard server supporting **500+ concurrent clients** with full concurrency safety, max-score conflict resolution, and consistent read-your-writes guarantees backed by SQLite WAL.
 
